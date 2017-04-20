@@ -1,0 +1,14 @@
+.my-class {
+  margin-top: 12px;
+  margin-bottom: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+}
+.my-self {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  border: 2px solid purple;
+  padding: 4px;
+  background-color: blue;
+}
